@@ -1,6 +1,15 @@
-# weather_app
+# weather_app proyek 4
 
-A new Flutter project.
+ project aplikasi cuaca
+
+
+  Fikri hairul fahri 221511050
+
+  ![Nama Gambar](fikri°F’.png)
+
+  
+  ![Nama Gambar](Fikri°C.png)
+
 
 ## Getting Started
 
